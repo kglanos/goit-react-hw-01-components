@@ -4,32 +4,32 @@
     align-items: center;
     margin-top: 50px;
     margin-bottom: 50px;
-  }
-  .desc {
+}
+.description {
     text-align: center;
     border: 2px solid lightgray;
     border-bottom: none;
     background-color: white;
-  }
-  .avatar {
+}
+.avatar {
     width: 250px;
     height: 250px;
     padding: 5px;
-  }
-  .name {
+}
+.name {
     font-size: large;
     font-weight: 500;
     margin: 0;
     margin-bottom: 5px;
-  }
-  .tag,
-  .location {
+}
+.tag,
+.location {
     color: gray;
     margin: 0;
     margin-bottom: 5px;
-  }
-  
-  .stats {
+}
+
+.stats {
     width: 250px;
     list-style: none;
     padding: 0;
@@ -38,11 +38,11 @@
     background-color: white;
     text-align: center;
     padding: 5px;
-  }
-  .label {
+}
+.label {
     margin-right: 5px;
     color: gray;
-  }
-  .quantity {
+}
+.quantity {
     font-size: medium;
-  }
+}
